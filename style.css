@@ -273,3 +273,11 @@ transform:scale(1.1);
   background:#d48ea3;
   transform:scale(1.05);
 }
+.promo {
+  background-color: #f8c8dc;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
